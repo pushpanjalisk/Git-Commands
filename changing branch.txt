@@ -1,0 +1,9 @@
+$ git checkout <branch-name>
+
+The git checkout command lets you navigate between the branches created by git branch .
+
+git checkout -b ＜new-branch＞
+
+The above example simultaneously creates and checks out ＜new-branch＞. 
+The -b option is a convenience flag that tells Git 
+to run "git branch" before running "git checkout ＜new-branch＞".
