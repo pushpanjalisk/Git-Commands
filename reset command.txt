@@ -1,0 +1,5 @@
+$ git reset	
+
+Undoes changes to files in the working directory. 
+Resetting lets you clean up or completely remove changes 
+that have not been pushed to a public repository
