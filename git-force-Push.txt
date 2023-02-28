@@ -1,0 +1,7 @@
+git push -f origin main
+
+will push the main branch to your remote repository forcefully,
+replacing all the commit history
+
+
+this will overwrite the remote repository, creating clone of a local repo
