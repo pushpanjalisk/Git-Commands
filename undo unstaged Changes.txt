@@ -1,0 +1,6 @@
+$ git restore .
+
+Undoes changes - those are not staged yet 
+in the working directory. 
+
+it works as ctrl + z 
